@@ -7,6 +7,7 @@ $payload->call("wallet");
  <!DOCTYPE html>
  <html>
  <head>
+  <meta charset="UTF-8">
    <title></title>
    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
    <link href="dist/main.css" rel="stylesheet">
